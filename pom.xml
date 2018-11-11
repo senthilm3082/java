@@ -30,7 +30,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
-      <type>jar</type>
+      <type>war</type>
       <scope>test2</scope>
       <optional>true</optional>
     </dependency>
